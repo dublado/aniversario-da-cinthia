@@ -19,7 +19,7 @@
   --balloon-3: 10;
   --balloon-2: 180;
   --balloon-1: 90;
-  --size: 60vmin;
+  --size: 40vmin;
   --height: var(--size);
   --width: calc(var(--size) * 1.4);
   --read: 0;
